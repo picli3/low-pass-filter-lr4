@@ -1870,6 +1870,26 @@
 		)
 		(uuid "ffa2ca6b-13d5-4c3a-961f-fc29726d3256")
 	)
+	(image
+		(at 262.89 152.4)
+		(uuid "8e07acac-efa4-47bf-9ea2-49a9e7409ec3")
+		(data "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADEElEQVR4nO2c243bMBBFz0QC/EkB"
+			"LmBLkTtISUFK2g6kUraABchPAxJuPkg94g0QLJyVHGv44YfMA5PQ+HIepE18uvXfPs+AQw455JBD"
+			"Djn0nJCVVgOpxi6AXZIZfTMapKnDZZfhObQhVOentgNIZ+gvmGCsgWowOAmoBgBs6+E5tBuUigDY"
+			"JQxAOgnCAIRrNoOiIDsNz6H9oDaCXcLV1CUzdV/3TQ49JFTfXuibKEgNRhDWxhFrX/cankObQ5NF"
+			"BAEJgLEWQdB/H2v1VskA1pmsB5+TQ/dASNJ8tyvRxj89TB1aSeoefE4O3QNljfgtlT2aslqEq9G/"
+			"XK0oyB7Dc2hzqGhEUYFK6sKAuvmVVhpRKTfXiGeGplUjaG0CUBVVaCNIkWwlvmo8P0T52bO+8flt"
+			"F5T9iGIMce784HNy6B5ojjViDjeB0SBEIBklQxUi9E01WM5tPvicHLoHKj/74kxUWjkOrYbSpcvZ"
+			"y8E14gDQZBERsjNRXhWPYnI0QdLg0ecBoCnW0BxhUJWSRps/0MrRdI04FtSqVLWKZ5lq9LMpb1ni"
+			"j/9pTg59uk2xxuRClLTDwM0iskiGa8QxoNHMXobiT/Z2Eu2b5WvSW41+ejX8EFC+y5ajz2Tz9dEo"
+			"O2ayW1FbGxvT1sNzaHNoVelagswp0hzmTGWJQ33VOAzUxkr24+1U4opcyMgbqa5G30AxlX2G59AO"
+			"la6Seyh6MLuSuUv+1D3LI0DrfMQqXRlLwLGUObyucRBoZRFFALIrqdl7uElcukU8OTRFlOksegMR"
+			"IiLVg/rmHZEaA2qM8F57pev5oVWla6UWLKnsyJScir4/4gjQlI/IrRrKVtvwbmSzSADpnOMMz0c8"
+			"PzT7EZqy2GGSiw5YHIzc2zXi6aH1Pss2zrWsJQ5d6luLqTz4nBz691AbQV06SVLei63liPD+w3Po"
+			"C6EPZ7rWp34rjBBl7ash0tn9iANAt2e61F/GXNDKD/2lHgTKBrL58BzaHPpwpmveFaFuchzKIuL7"
+			"LA8Bmf7e57b5P5M55JBDDjnkkEMAvwCVXW/MJ6jqRQAAAABJRU5ErkJggg=="
+		)
+	)
 	(label "-15V"
 		(at 93.98 148.59 180)
 		(effects
@@ -3356,10 +3376,10 @@
 			)
 		)
 		(pin "5"
-			(uuid "ff2d02b1-de4c-4bbe-adce-5c94c1501369")
+			(uuid "ff2d02b1-de4c-4bbe-adce-5c94c150136a")
 		)
 		(pin "4"
-			(uuid "243851c7-cc96-45c7-8afc-b14871839ff5")
+			(uuid "243851c7-cc96-45c7-8afc-b14871839ff6")
 		)
 		(pin "3"
 			(uuid "63a8d97e-f78f-41f2-8a54-8876cd01f38c")
@@ -3368,13 +3388,13 @@
 			(uuid "bbab09b1-1893-4736-9c44-3446ec61ed1c")
 		)
 		(pin "7"
-			(uuid "0f2725a1-43ed-439a-8b77-b190af22dcdf")
+			(uuid "0f2725a1-43ed-439a-8b77-b190af22dce0")
 		)
 		(pin "8"
-			(uuid "ca44a257-2233-4cd4-b877-ee08e576c7a0")
+			(uuid "ca44a257-2233-4cd4-b877-ee08e576c7a1")
 		)
 		(pin "6"
-			(uuid "cbf0d7ad-01be-4ea9-ba36-09bc15b2a917")
+			(uuid "cbf0d7ad-01be-4ea9-ba36-09bc15b2a918")
 		)
 		(pin "2"
 			(uuid "2ea11f18-201d-4d10-b0ea-f86b75c62e20")
@@ -4170,10 +4190,10 @@
 			)
 		)
 		(pin "5"
-			(uuid "ff2d02b1-de4c-4bbe-adce-5c94c150136a")
+			(uuid "ff2d02b1-de4c-4bbe-adce-5c94c150136b")
 		)
 		(pin "4"
-			(uuid "243851c7-cc96-45c7-8afc-b14871839ff6")
+			(uuid "243851c7-cc96-45c7-8afc-b14871839ff7")
 		)
 		(pin "3"
 			(uuid "1371d303-7663-4ce1-b144-d5053b4bddfc")
@@ -4182,13 +4202,13 @@
 			(uuid "98250d86-dc6e-4cea-b907-828c1fe31489")
 		)
 		(pin "7"
-			(uuid "0f2725a1-43ed-439a-8b77-b190af22dce0")
+			(uuid "0f2725a1-43ed-439a-8b77-b190af22dce1")
 		)
 		(pin "8"
-			(uuid "ca44a257-2233-4cd4-b877-ee08e576c7a1")
+			(uuid "ca44a257-2233-4cd4-b877-ee08e576c7a2")
 		)
 		(pin "6"
-			(uuid "cbf0d7ad-01be-4ea9-ba36-09bc15b2a918")
+			(uuid "cbf0d7ad-01be-4ea9-ba36-09bc15b2a919")
 		)
 		(pin "2"
 			(uuid "0751d45d-1eee-41d7-83da-3f888e5a9666")
@@ -5580,7 +5600,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d36f558b-f05f-4b6a-9d67-2fc121bd42af")
+			(uuid "d36f558b-f05f-4b6a-9d67-2fc121bd42b0")
 		)
 		(instances
 			(project "filtro_PB_4to_L-R"
