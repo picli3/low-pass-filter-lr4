@@ -23,8 +23,8 @@ Este repositorio busca concentrar el diseño de hardware del proyecto en un form
 | C7 | 100nF | `Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm` |
 | C8 | 100nF | `Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm` |
 | J1 | Conn_01x03 | `Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical` |
-| J2 | Conn_01x03 | `Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical` |
-| J3 | Conn_01x03 | `Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical` |
+| J2 | Conn_01x02 | `Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical` |
+| J3 | Conn_01x02 | `Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical` |
 | R1 | 33k | `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal` |
 | R3 | 33k | `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal` |
 | R5 | 33k | `Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal` |

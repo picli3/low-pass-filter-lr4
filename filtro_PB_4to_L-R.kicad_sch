@@ -3608,7 +3608,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03"
+		(property "Value" "Conn_01x02"
 			(at 53.34 83.82 0)
 			(effects
 				(font
@@ -3854,7 +3854,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03"
+		(property "Value" "Conn_01x02"
 			(at 236.22 78.74 0)
 			(effects
 				(font
